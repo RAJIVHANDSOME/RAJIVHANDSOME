@@ -59,9 +59,10 @@ I am a dedicated full-stack developer with expertise in ReactJS, NodeJS, Spring 
 <b>Top Repositories</b>
 
 <div width="100%" align="center"><a href="https://github.com/RAJIVHANDSOME/agriinsight" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJIVHANDSOME&repo=agriinsight&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/RAJIVHANDSOME/JewelleryApp" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJIVHANDSOME&repo=JewelleryApp&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br />
-
+<br/>
 <div width="100%" align="center"><a href="https://github.com/RAJIVHANDSOME/rajiv_portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=RAJIVHANDSOME&repo=rajiv_portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
+<br/>
+<br/>
 ### Badges
 
 <b>My GitHub Stats</b>
