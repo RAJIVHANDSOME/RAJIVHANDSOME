@@ -1,7 +1,7 @@
 ![logo](photo_2025-03-19_23-40-36.jpg)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is K Rajiv Ratna
+<br/>
 
-=====================================================================================================================================
 
 A passionate Programmer,Web developer
 -------------------------------------
@@ -10,7 +10,7 @@ I am a dedicated full-stack developer with expertise in ReactJS, NodeJS, Spring 
 
 * 🖥️  See my portfolio at [https://krajivratna-portfolio.vercel.app](http://krajivratna-portfolio.vercel.app)
 * ✉️  You can contact me at [2100032455cseh@gmail.com](mailto:2100032455cseh@gmail.com)
-* ⚡  Know about my experiences [https://krajivratna-portfolio.vercel.app/assets/RajivRatna_Resume-tIpINEiZ.pdf](Resume)
+* ⚡  Know about my experiences [Resume](https://krajivratna-portfolio.vercel.app/assets/RajivRatna_Resume-tIpINEiZ.pdf)
 
 <h3 align="left">Languages and Tools:</h3>
 
